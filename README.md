@@ -1,7 +1,7 @@
 # Project Pi-hole
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-Estou rodando dentro de um docker-compose.yml 4 containers: Pi-Hole, Pi-hole-exporter que faz a exportação das métricas para o Prometheus, o Prometheus e o Grafana
+Estou rodando dentro de um docker-compose.yml 4 containers: Pi-Hole, Pi-hole-exporter (faz a exportação das métricas para o Prometheus), Prometheus e o Grafana
 
 # Painel do Pi-Hole
 
